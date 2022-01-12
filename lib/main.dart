@@ -8,6 +8,6 @@ import 'package:progect_demo/text_demo_screen.dart';
 import 'switch_demo_screen.dart';
 
 void main() {
-  runApp(const ExpandedDemoScreen());
+  runApp(const switchDemoScreen());
 }
 
